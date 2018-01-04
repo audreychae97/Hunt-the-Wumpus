@@ -1,0 +1,10 @@
+TO COMPILE: 
+g++ room.cpp character.cpp driver.cpp 
+
+TO RUN:
+./a.out
+
+** game will prompt for an ID. There is no particular ID, you can enter 
+** anything you want. It was just for fun ** 
+
+
